@@ -1,0 +1,37 @@
+button:hover {
+  background-color: purple;
+}
+
+input:focus {
+  outline: 2px solid orange;
+}
+
+input:checked {
+  accent-color: green;
+}
+
+.buton-demo:active {
+  background-color: orange;
+  outline: 2px solid orange;
+}
+
+.buton-demo:focus {
+  outline: 2px solid orange;
+}
+
+p {
+  color: black;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+}
+
+img {
+  border-radius: 10px;
+}
